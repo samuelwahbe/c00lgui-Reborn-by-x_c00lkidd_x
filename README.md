@@ -1,7 +1,7 @@
 # c00lgui Reborn by x_c00lkidd_x
 
 <a href="https://discord.gg/ax94HgaXe">
-  <img src="https://img.shields.io/badge/Discord-Team%20c00lkidd-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="samuelwahbe's group">
+  <img src="https://img.shields.io/badge/Discord-samuelwahbe's%20group-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="samuelwahbe's group">
 </a>   
 
 c00lgui Reborn is a Luau-based GUI project created by **x_c00lkidd_x**.
